@@ -1,0 +1,44 @@
+# Site settings
+title: ACHIEVE PRO
+description: "Ultimate Progression & Achievement Engine for Unity"
+baseurl: "/ACHIEVE-PRO-DOCS"
+url: "https://decnet-games.github.io"
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+
+# Color scheme (dark mode default)
+color_scheme: dark
+
+# Just the Docs settings
+search_enabled: true
+search:
+  heading_level: 3
+  tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+nav_sort: nav_order
+
+# Navigation hierarchy
+nav_enabled: true
+
+# Enable or disable the site header
+callouts_opacity: 0.2
+callouts:
+  note:
+    title: Note
+    color: purple
+  tip:
+    title: Pro Tip
+    color: green
+  warning:
+    title: Important
+    color: yellow
+  danger:
+    title: Caution
+    color: red
+
+# Footer
+footer_content: "Copyright &copy; 2026 DecNet Games. Built for Unity Game Developers."
+last_modified_date: true
