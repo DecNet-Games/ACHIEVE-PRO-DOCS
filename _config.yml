@@ -4,9 +4,13 @@ description: "Ultimate Progression & Achievement Engine for Unity"
 baseurl: "/ACHIEVE-PRO-DOCS"
 url: "https://decnet-games.github.io"
 
-# Theme settings
+# Remote theme for GitHub Pages
 remote_theme: just-the-docs/just-the-docs
-theme: just-the-docs
+
+# Plugins required for GitHub Pages remote_theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Color scheme (dark mode default)
 color_scheme: dark
@@ -23,7 +27,7 @@ nav_sort: nav_order
 # Navigation hierarchy
 nav_enabled: true
 
-# Enable or disable the site header
+# Enable callout styles
 callouts_opacity: 0.2
 callouts:
   note:
