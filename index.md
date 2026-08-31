@@ -74,4 +74,7 @@ ACHIEVE PRO unifies your entire progression pipeline into an elegant, decoupled 
 - [Core Features](docs/features/) — Deep dives into rules, streaks, spoilers, and spring physics.
 - [Editor Studio Tools](docs/editor-tools/) — Documentation for the Tech UI Studio Hub, Theme Designer, and SFX Studio.
 - [API Reference](docs/api-reference/) — Complete C# static API and event bus reference.
-- [FAQ & Troubleshooting](docs/faq.html) — Frequently asked questions and performance benchmarks.
+- [Best Practices](docs/best-practices.html) — Guidelines for maintaining clean and performant achievements.
+- [Performance Optimization](docs/performance-optimization.html) — Details on zero-allocation and optimization strategies.
+- [FAQ & Troubleshooting](docs/troubleshooting.html) — Frequently asked questions and common solutions.
+- [Support](docs/support.html) — Get help, report bugs, and join our Discord community.
